@@ -1,0 +1,32 @@
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.csproj.AssemblyReference.cache
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.GeneratedMSBuildEditorConfig.editorconfig
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.AssemblyInfoInputs.cache
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.AssemblyInfo.cs
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.csproj.CoreCompileInputs.cache
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.exe
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.deps.json
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.runtimeconfig.json
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.runtimeconfig.dev.json
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.dll
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\bin\Debug\net5.0\ref\Cafetera.dll
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\bin\Debug\net5.0\Cafetera.pdb
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.dll
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\obj\Debug\net5.0\ref\Cafetera.dll
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.pdb
+D:\DD\ITLA\Adm. Sof\Cafetera\Cafetera\obj\Debug\net5.0\Cafetera.genruntimeconfig.cache
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\Cafetera.dll
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\Cafetera.pdb
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\bin\Debug\net5.0\Cafetera.exe
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\bin\Debug\net5.0\Cafetera.deps.json
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\bin\Debug\net5.0\Cafetera.runtimeconfig.json
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\bin\Debug\net5.0\Cafetera.runtimeconfig.dev.json
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\bin\Debug\net5.0\Cafetera.dll
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\bin\Debug\net5.0\Cafetera.pdb
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\Cafetera.csproj.AssemblyReference.cache
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\Cafetera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\Cafetera.AssemblyInfoInputs.cache
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\Cafetera.AssemblyInfo.cs
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\Cafetera.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\refint\Cafetera.dll
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\Cafetera.genruntimeconfig.cache
+C:\Users\alexi\Downloads\MaquinaDeCafe-main\Cafetera\obj\Debug\net5.0\ref\Cafetera.dll
